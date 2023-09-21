@@ -1,3 +1,3 @@
 # Working with Geodata in Stata
 
-I use three examples to show how you can use Stata to create maps, find neighboring polygons, and calculate the distance between a point and a border.
+I use four examples to show how you can use Stata to create maps, do forward and reverse geocoding, match locations to polygons, and find neighboring polygons.
